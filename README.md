@@ -31,7 +31,7 @@ Project to study Node.js.
 <a href="https://github.com/rafaelfachinelli">
  <img src="https://avatars0.githubusercontent.com/u/19878139?s=96&v=4" width="100px;" alt="Profile Photo Rafael Fachinelli"/>
  <br/>
- <sub><b>YOUR NAME</b></sub>
+ <sub><b>Rafael Fachinelli</b></sub>
 </a>
 
 Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
