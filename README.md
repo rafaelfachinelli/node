@@ -3,12 +3,12 @@
 </p>
 
 <p align="center"> 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/node-study?color=3498db&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/node-study?color=3498db&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-YOUR_NAME-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Developed by NAME" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/dev-readme?color=3498db&style=for-the-badge"/>
+  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/node-study?color=3498db&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -21,24 +21,24 @@
 ---
 ## :information_source: About
 
-Your description about this project.
+Project to study Node.js.
 
 ---
 ## :boy: **Author**
 
 <div align="center">
 
-<a href="https://github.com/YOURUSERNAME">
- <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo YOUR NAME"/>
+<a href="https://github.com/rafaelfachinelli">
+ <img src="https://avatars0.githubusercontent.com/u/19878139?s=96&v=4" width="100px;" alt="Profile Photo Rafael Fachinelli"/>
  <br/>
  <sub><b>YOUR NAME</b></sub>
 </a>
 
-Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
+Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-YOUR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURNAME)
-[![Github Badge](https://img.shields.io/badge/-YOURNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/YOURUSERNAME)
-[![Outlook Badge](https://img.shields.io/badge/-YOUREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:YOUREMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli)
+[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rafael.fachinelli@fatec.sp.gov.br)
 
 </div>
 
@@ -47,7 +47,7 @@ Developed with ❤️ by YOUR NAME 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2021 [YOUR NAME](https://github.com/YOURUSERNAME).<br />
+Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
