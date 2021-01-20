@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Node Study" src=".github/banner.svg" width="250px"/>
+  <img alt="Node Studies" src=".github/banner.svg" width="250px"/>
 </p>
 
 <p align="center"> 
